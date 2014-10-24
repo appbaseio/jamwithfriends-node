@@ -1,0 +1,23 @@
+{
+  "name": "jamwithfriends-node",
+  "version": "0.0.0",
+  "description": "Room-wise keys pressed for the Jam With Friends app",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/appbaseio/jamwithfriends-node.git"
+  },
+  "author": "Sagar Chandarana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/appbaseio/jamwithfriends-node/issues"
+  },
+  "homepage": "https://github.com/appbaseio/jamwithfriends-node",
+  "dependencies": {
+    "appbasejs": "^0.2.2",
+    "better-console": "^0.2.3"
+  }
+}
